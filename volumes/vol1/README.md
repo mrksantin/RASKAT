@@ -1,6 +1,6 @@
 # Том 1 — Начало пути
 
-![Обложка](assets/cover.jpg)
+![Обложка](/volumes/vol1/illustrations/fb2_img_img_35002.jpg)
 
 ## 📚 Оглавление
 
@@ -13,9 +13,9 @@
 ## 🎨 Иллюстрации
 
 - ![](/illustrations/fb2_img_img_53116.jpg)
-- ![](/illustrations/fb2_img_img_35002.jpg)
-- ![](/illustrations/fb2_img_img_35003.jpg)
-- ![](/illustrations/fb2_img_img_35004.jpg)
-- ![](/illustrations/fb2_img_img_35005.jpg)
-- ![](/illustrations/fb2_img_img_35006.jpg)
-- ![](/illustrations/fb2_img_img_35007.jpg)
+- ![](/volumes/vol1/illustrations/fb2_img_img_35002.jpg)
+- ![](/volumes/vol1/illustrations/fb2_img_img_35003.jpg)
+- ![](/volumes/vol1/illustrations/fb2_img_img_35004.jpg)
+- ![](/volumes/vol1/illustrations/fb2_img_img_35005.jpg)
+- ![](/volumes/vol1/illustrations/fb2_img_img_35006.jpg)
+- ![](/volumes/vol1/illustrations/fb2_img_img_35007.jpg)
