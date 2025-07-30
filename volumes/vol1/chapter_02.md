@@ -2,15 +2,17 @@
 
 ## Начальные иллюстрации:
 
-![Иллюстрация](assets/illustrations/fb2_img_img_35002.jpg)
+![Иллюстрация](/volumes/vol1/illustrations/fb2_img_img_35002.jpg)
 
-![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
+![Иллюстрация](/volumes/vol1/illustrations/fb2_img_img_35003.jpg)
 
-![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
+![Иллюстрация](/volumes/vol1/illustrations/fb2_img_img_35004.jpg)
 
-![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
+![Иллюстрация](/volumes/vol1/illustrations/fb2_img_img_35005.jpg)
 
-![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
+![Иллюстрация](/volumes/vol1/illustrations/fb2_img_img_35006.jpg)
+
+![Иллюстрация](/volumes/vol1/illustrations/fb2_img_img_35007.jpg)
 
 ---
 
