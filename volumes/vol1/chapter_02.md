@@ -2,15 +2,15 @@
 
 ## Начальные иллюстрации:
 
-![Иллюстрация](illustrations/fb2_img_img_35002)
+![Иллюстрация](assets/illustrations/fb2_img_img_35002.jpg)
 
-![Иллюстрация](illustrations/fb2_img_img_35003)
+![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
 
-![Иллюстрация](illustrations/fb2_img_img_35004)
+![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
 
-![Иллюстрация](illustrations/fb2_img_img_35005)
+![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
 
-![Иллюстрация](illustrations/fb2_img_img_35006)
+![Иллюстрация](assets/illustrations/fb2_img_img_35003.jpg)
 
 ---
 
